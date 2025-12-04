@@ -1,3 +1,5 @@
+### Click [here](https://github.com/faithjonson/coursework) to view my civil engineering coursework 🏢
+
 ### About Me
 - **Name:** Faith Jonson
 - **Technical interests:** civil engineering, geospatial engineering, surveying
