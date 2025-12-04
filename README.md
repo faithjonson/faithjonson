@@ -11,7 +11,7 @@
 - Choreographer + attire lead + makeup lead at [CPP Barkada](https://cppbarkada.org/)
 - Former designer at [Cal Poly Rose Float](https://www.rosefloat.org/)
 - Former retail associate at [Ross Stores, Inc.](https://www.rossstores.com/)
-- Former engineering project designer t [ACE Mentor Program of America](https://www.acementor.org/)
+- Former engineering project designer at [ACE Mentor Program of America](https://www.acementor.org/)
 
 ### Education
 - **California Polytechnic State University, Pomona**
