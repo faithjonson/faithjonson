@@ -28,21 +28,21 @@
 
 ## Projects
 
-### Topographic Survey and Site Analysis of University Campus Meadow Area
-**Technologies:** Total Station, Autodesk Civil 3D, land surveying
-- Conducted detailed topographic measurements of the northeastern section of the Engineering Meadow of the Cal Poly
-Pomona campus for site planning and analysis purposes
-- Identified and recorded key data points for terrain features, elevation changes, and drainage patterns to support preliminary
-site planning and grading design
+### Topographic Survey and Site Analysis of University Meadow Area
+**Technologies:** Autodesk Civil 3D, total station, land surveying
+- Conducted 10+ detailed topographic measurements of the northeastern section of the Engineering Meadow of the Cal Poly Pomona
+campus for site planning and analysis purposes
+- Identified and recorded key data points for terrain features, elevation changes, and drainage patterns to support preliminary site planning
+and grading design
 
-### Plan View Drawing of University Campus Quad Area
+### Plan View Drawing of University Quad Area
 **Technologies:** Land surveying, hand drafting, technical drawing
-- Conducted 5 on-site surveys of the University Quad of the Cal Poly Pomona campus, recording accurate measurements of
-sidewalks, trees, ground elevation changes, utilities, and grass fields
-- Utilized drawing tools such as French curves, pencils, engineering scales, and engineering paper to hand-draft precise
-technical sketches for plan view drawings
+- Conducted 5 on-site surveys of the University Quad of the Cal Poly Pomona campus
+- Recorded accurate measurements of ground elevation changes, utilities, trees, sidewalks, and grass fields
+- Hand-drafted precise technical sketches for plan view drawings using French curves, pencils, engineering scales, and engineering paper
 
-### Renovation Proposal for High School Campus Courtyard
-**Technologies:** Google Sheets, land surveying, hand drafting, cost estimation, poster presentation
-- Organized a project proposal to optimize the visual appeal and foot traffic of a school campus courtyard
-- Delivered live presentations with budget estimations, hand-illustrated diagrams, and project scope and timeline
+### High School Campus Courtyard Renovation Proposal
+**Technologies:** Google Sheets, land surveying, hand drafting, cost estimation
+- Led the lifecycle of a mock design proposal project to optimize the visual appeal and foot traffic of a high school campus courtyard
+- Delegated budgeting/scheduling tasks; reduced tentative budget by using existing materials; consulted industry mentors for guidance
+- Delivered a live presentation with budget estimations, hand-illustrated diagrams, and project scope and timeline to industry professionals
