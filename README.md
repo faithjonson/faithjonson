@@ -1,7 +1,7 @@
 ### About Me
 - **Name:** Faith Jonson
-- **Technical interests:** civil engineering, geospatial engineering, surveying
-- **Creative interests:** art, music, graphic design
+- **Technical interests:** civil engineering, design drafting, land surveying
+- **Creative interests:** digital art, music, graphic design
 
 ### Experience
 
